@@ -1,0 +1,7 @@
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\DistributedPointDAL\bin\Debug\CommonDAL.dll.config
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\DistributedPointDAL\bin\Debug\CommonDAL.dll
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\DistributedPointDAL\bin\Debug\CommonDAL.pdb
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\DistributedPointDAL\obj\Debug\CommonDAL.csproj.CoreCompileInputs.cache
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\DistributedPointDAL\obj\Debug\CommonDAL.dll
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\DistributedPointDAL\obj\Debug\CommonDAL.pdb
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\DistributedPointDAL\obj\Debug\CommonDAL.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\CommonBLL.dll
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\CommonBLL.pdb
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\Config.dll
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\DistributedPointDAL.dll
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\gtcl.dll
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\gtcl.pdb
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\Config.pdb
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\DistributedPointDAL.pdb
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\DistributedPointDAL.dll.config
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\en-US\gtcl.resources.dll
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\bin\Release\en-US\Config.resources.dll
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\obj\Release\CommonBLL.csprojAssemblyReference.cache
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\obj\Release\CommonBLL.csproj.CoreCompileInputs.cache
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\obj\Release\CommonBLL.csproj.CopyComplete
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\obj\Release\CommonBLL.dll
+D:\项目\40.学业水平考试平台\JDExaminationPlatform\JDExaminationPlatform\CommonBLL\obj\Release\CommonBLL.pdb

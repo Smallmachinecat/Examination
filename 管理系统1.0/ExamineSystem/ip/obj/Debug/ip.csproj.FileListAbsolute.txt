@@ -1,0 +1,9 @@
+C:\Users\85413\source\repos\ExamineSystem\ip\bin\Debug\ip.exe.config
+C:\Users\85413\source\repos\ExamineSystem\ip\bin\Debug\ip.exe
+C:\Users\85413\source\repos\ExamineSystem\ip\bin\Debug\ip.pdb
+C:\Users\85413\source\repos\ExamineSystem\ip\obj\Debug\ip.Form1.resources
+C:\Users\85413\source\repos\ExamineSystem\ip\obj\Debug\ip.Properties.Resources.resources
+C:\Users\85413\source\repos\ExamineSystem\ip\obj\Debug\ip.csproj.GenerateResource.cache
+C:\Users\85413\source\repos\ExamineSystem\ip\obj\Debug\ip.csproj.CoreCompileInputs.cache
+C:\Users\85413\source\repos\ExamineSystem\ip\obj\Debug\ip.exe
+C:\Users\85413\source\repos\ExamineSystem\ip\obj\Debug\ip.pdb
